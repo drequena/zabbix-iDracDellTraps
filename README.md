@@ -44,10 +44,10 @@ Clone o repositório do template, e copie o arquivo *iDRAC-430.conf* para, por e
 
  Importe o XML do template dentro do Zabbix e associe ao host que representa a iDRAC do seu servidor.
 
- 4. Configuração de alertas
- ---
+4. Configuração de alertas
+---
 
  É possível configurar o tempo o qual os alertas permanecerão ativos para TRAPs WARNING, CRITICAL e UNMATCHED pelas MACROS:
- * {$CRITICAL_TIMEOUT} (default: 3600 segundos)
- * {$WARNING_TIMEOUT} (default: 1800 segundos)
- * {$UNMATCHED_TIMEOUT} (default: 600 segundos)
+* {$CRITICAL_TIMEOUT} (default: 3600 segundos)
+* {$WARNING_TIMEOUT} (default: 1800 segundos)
+* {$UNMATCHED_TIMEOUT} (default: 600 segundos)
