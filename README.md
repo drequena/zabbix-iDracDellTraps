@@ -1,6 +1,8 @@
 Dell iDRAC TRAPs Zabbix Template.
 ============
 
+if you want the english version for this file, click here (https://github.com/drequena/zabbix-iDracDellTraps/blob/master/README-en.md)
+
 1. O que é
 ---
 Esse é um Template do Zabbix que trata TRAPs enviadas de placas iDRAC da Dell.
